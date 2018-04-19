@@ -1,0 +1,4 @@
+[submodule "ITP-KSA/ISky_mod-"]
+	path = ITP-KSA/ISky_mod-
+	url = git@github.com:ITP-KSA/ISky_mod-.git
+	branch = master
