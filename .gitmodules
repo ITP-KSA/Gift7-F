@@ -1,19 +1,19 @@
 [submodule "ITP-KSA/ISky_mod-"]
 	path = ITP-KSA/ISky_mod-
-	url = git@github.com:ITP-KSA/ISky_mod-.git
+	url = https://github.com/ITP-KSA/ISky_mod-.git
 	branch = master
 
 [submodule "ITP-KSA/Project"]
 	path = ITP-KSA/Project
-	url = git@github.com:ITP-KSA/Project.git
+	url = https://github.com/ITP-KSA/Project.git
 	branch = master
 
 [submodule "ITP-KSA/ISky_mod1-"]
 	path = ITP-KSA/ISky_mod1-
-	url = git@github.com:ITP-KSA/ISky_mod1-.git
+	url = https://github.com/ITP-KSA/ISky_mod1-.git
 	branch = master
 
 [submodule "ITP-KSA/warehouse_stock_restrictions"]
 	path = ITP-KSA/warehouse_stock_restrictions
-	url = git@github.com:ITP-KSA/warehouse_stock_restrictions.git
+	url = https://github.com/ITP-KSA/warehouse_stock_restrictions.git
 	branch = master
